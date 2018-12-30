@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import getCounter from './worker';
+import getCounter from './worker.js';
 
 class App extends Component {
   constructor(props) {
